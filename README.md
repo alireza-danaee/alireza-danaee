@@ -4,9 +4,7 @@
 
 - 📫 How to reach me **alirezadana.x7@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+
 
 # 💫About Me :
 I'm Alireza Danaee. Python backend developer. Trying to be a Pythonista. Learning new things and techs. Love innovating handy stuff.
